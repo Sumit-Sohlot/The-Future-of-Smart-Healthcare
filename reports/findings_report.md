@@ -1,5 +1,6 @@
-Introduction
-The patient outcome prediction project aims to develop predictive models that can predict patient outcomes based on various factors such as 
+Introduction:
+
+The project aims to develop predictive models that can predict patient outcomes based on various factors such as 
 demographics, comorbidities, and treatments. The goal is to help providers tailor treatment plans to individual patients and improve overall outcomes.
 In this report, we present the findings from our analysis of the predictive models.
 
@@ -34,3 +35,4 @@ To improve the performance of the models, we performed further analysis and refi
 
 Conclusion
 Overall, the patient outcome prediction project demonstrated that predictive models can be effective in predicting patient outcomes based on various factors such as demographics, comorbidities, and treatments. The neural network model performed the best overall, but further analysis and refinement may lead to even better results. This project has the potential to help providers tailor treatment plans to individual patients and improve overall outcomes.
+
